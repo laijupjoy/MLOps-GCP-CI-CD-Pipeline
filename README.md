@@ -1,4 +1,4 @@
-# MLOps-GCP-CI-CD-Pipeline (with Trigger Cloud Build Automatically)
+# MLOps-GCP-CI-CD-Pipeline (with Trigger)
 
 This Repository contains notebook,scripts and files for building MLOps-GCP-CI-CD-Pipeline.
 
